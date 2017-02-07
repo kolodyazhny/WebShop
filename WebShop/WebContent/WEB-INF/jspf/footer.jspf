@@ -1,0 +1,11 @@
+<%@ include file="/WEB-INF/jspf/directive/taglib.jspf"%>
+
+<div class="footer">
+	<div class="container">
+		<p class="text-muted">
+			&copy;
+			<fmt:message key="footer_jspf" />
+			(SummaryTask4, EPAM Java Training, Nikolay Kolodiazhny, 099-74-56-999, kolyan199410@meta.ua), 2017
+		</p>
+	</div>
+</div>
